@@ -1,1 +1,4 @@
 /build/
+DX12_tutorial_release.exe
+DX12_tutorial_debug.exe
+/.vscode/
